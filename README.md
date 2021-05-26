@@ -6,7 +6,7 @@
  ### How it's made
  - I used rest countries API for accessing the data.
  - This api is avaialble at public-api repo on github
- - After I getting data , I simply destructured that info using rest operation.
+ - After receiving the data , I simply destructured that info using rest operation.
  - Well I made a input box where user can input a Country name.
  - Aftere receiving that name I searched in that destructured array.
  - If it is present then a nice card will be shown, which contains general data about that country.
